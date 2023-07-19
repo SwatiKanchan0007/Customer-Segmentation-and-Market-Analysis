@@ -3,11 +3,11 @@ The primary objective of this project is to conduct a Customer Segmentation Anal
 
 The RFM model analyzes three key aspects of customer behavior:
 
-Recency (R): This refers to the time since a customer's last purchase. Customers who have made more recent purchases are likely to be more engaged and active.
+- Recency (R): This refers to the time since a customer's last purchase. Customers who have made more recent purchases are likely to be more engaged and active.
 
-Frequency (F): This represents the number of transactions made by a customer within a specific time period. Customers with higher frequency indicate loyal and consistent buyers.
+- Frequency (F): This represents the number of transactions made by a customer within a specific time period. Customers with higher frequency indicate loyal and consistent buyers.
 
-Monetary Value (M): This measures the total monetary value of a customer's purchases over a particular period. Customers with higher monetary value contribute significantly to the company's revenue.
+- Monetary Value (M): This measures the total monetary value of a customer's purchases over a particular period. Customers with higher monetary value contribute significantly to the company's revenue.
 
 By combining these three metrics, the RFM analysis aims to divide customers into distinct segments, allowing the company to identify valuable customer groups and target them more effectively.
 
